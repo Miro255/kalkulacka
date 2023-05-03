@@ -1,5 +1,9 @@
 def main():
-  meno = ("baf baf ")
+
+  meno = "pepa"
+
+
+
   print("meno")
 
 
