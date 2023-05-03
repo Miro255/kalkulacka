@@ -1,5 +1,5 @@
 def main():
-  meno = input("Zadaj svoje meno: ")
+  meno = "pepa"
   print("meno")
 
 
