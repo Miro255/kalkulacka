@@ -1,15 +1,14 @@
 def main():
 
-  meno = "pepa"
-
-
+  meno = input("pZadaj meno: ")
 
   print("meno")
 
 
 if __name__ == "__main__":
   main()
-  
-else:
-  print("exit")
+
+#
+#git add app.py
+#git add LICENCE
   
